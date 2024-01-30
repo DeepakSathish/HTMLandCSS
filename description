@@ -1,0 +1,27 @@
+css contains three types 
+inline,internal,external
+inline means single line css this is also key vale pairs 
+internal means same hyml page la thaniya style tag la nama css kudutha internal
+div tag contains the in html that can take height.html laa iruka condunt iruka varikum heigth set panikum
+athee css la div kududthu height set panikala athu panum pothu fixed aa tha work aagum
+external css na thaniya oru css create pani athaa html la link pananum
+<link real ="style.css"href="style.css //path"
+css selectors
+element,class,id,universal
+element means h1,p individual
+class means create a class in html and css putting dot .and value 
+id means putting # symbol before the class value id name must be 
+only one but class are repated created same valueor name
+
+universal means * it covers the hole html page 
+css box model margin,borders,padding,content
+
+content nama kudukura content ,padding top-left-right-bottom naa nama kudukura
+content la irunthu chages aagum 
+margin na athu mela margin irunthu work aagum
+border na 3 kadipa venum border color,style, width
+text-align centern na center la varum
+
+display property inline ,inline block,block,none
+inline na athu vanthu element ooda size evalavo athu varikum dha work aagum but block na
+full eduthukum inline-block na athu same as inline but height and widht nama pana mudium
